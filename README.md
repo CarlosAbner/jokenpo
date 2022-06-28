@@ -1,4 +1,4 @@
-# jokenpo
+# JOKENPÔ
 ## famoso jogo do JOKENPÔ com o computador
 
 Compartilho com meus amigos, o jogo que na qual é muito mais que conhecido, porém um pouco complexo para o iniciante!
